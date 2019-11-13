@@ -1,2 +1,2 @@
 # Analisis-y-procesamiento-de-imagenes
-Laboratorios y proyecto de la clase análisis y procesamiento de imágenes
+This repository strictly follows the teorethical guidelines provided by the course "IBIO3470 - Image processing and analysis" at Uniandes. 2018
